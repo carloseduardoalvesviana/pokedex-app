@@ -1,0 +1,3 @@
+## Na pasta do projeto, roda os seguintes comandos no terminal
+#1: npm install
+#2: npm run dev
